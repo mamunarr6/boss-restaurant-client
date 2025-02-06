@@ -56,7 +56,7 @@ const Footer = () => {
           </div>
         </div>
       </footer>
-      <footer className="footer footer-center bg-base-300 text-base-content p-4">
+      <footer className="footer footer-center bg-[#111827] text-base-content p-4">
         <aside>
           <p>
             Copyright © CulinaryCloud. {new Date().getFullYear()} All rights

@@ -3,7 +3,7 @@ import bgChef from "../../../assets/home/chef-service.jpg";
 const Boss = () => {
   return (
     <div
-      className="bg-cover bg-center h-[70vh] flex justify-center items-center my-5"
+      className="bg-cover bg-center bg-fixed h-[70vh] flex justify-center items-center my-5"
       style={{ backgroundImage: `url(${bgChef})` }}
     >
       <div className="w-3/4 bg-slate-100 p-20 rounded">
